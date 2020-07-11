@@ -13,7 +13,7 @@
     <a href="Index.php">Index</a>
     <a href="Varibales.php">Variables</a>
     <a href="Operaciones.php">Operaciones</a>
-    <a href="Formularios.php">Envio de datos</a>
+    <a href="Formularios.php">Envio de elementos</a>
     <br>
     <br>
     <form action="Capturar.php" method="Post">
